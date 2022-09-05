@@ -5,6 +5,7 @@
 [ ] setup aws cli on mac os
 [ ] Create ec2 vm with cloudformation
 [ ] Create ec2 vm with terraform and with basic setup with ansible.
+[ ] Setup automation to generate png,svg and pdf from the automations.
 
 
  adr init doc/architecture/decisions

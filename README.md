@@ -28,4 +28,5 @@ Repo to consolidate my learning on AWS Cloud.
 
 # [Bibliography](doc/BIBLIOGRAPHY.md)
 
-#[Decisions Records](doc/architecture/)
+# [Decisions Records](doc/architecture/)
+
