@@ -1,5 +1,6 @@
 # Local .terraform directories
 **/.terraform/*
+*.terraform.lock*
 
 # .tfstate files
 *.tfstate
@@ -36,3 +37,4 @@ terraform.rc
 
 # Ignore drawio temp files
 *.$*drawio.bkp
+*.$*drawio.dtmp
